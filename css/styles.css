@@ -2,6 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 
+/* Fonts - User Picks */
+/* "Delius Unicase", cursive */
+/* "Permanent Marker", cursive */
+/* "Phudu", sans-serif */
+
 * {
   padding: 0;
   margin: 0;
@@ -83,6 +88,12 @@ body {
 /* DID word */
 
 .didDLetter {
+  font-size: ;
+  font-weight: ;
+  color: ;
+  text-decoration: ;
+  text-transform: ;
+  font-family: "Delius Unicase", cursive
 }
 
 .didILetter {
