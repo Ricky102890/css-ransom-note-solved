@@ -855,7 +855,6 @@ body {
   font-style: italic;
 } 
 .becauseBLetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 400;
   color: gold;
@@ -910,69 +909,6 @@ body {
   text-decoration: wavy;
   text-transform: uppercase;
   font-family: "Delius Unicase", cursive;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.becauseELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.becauseCLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.becauseALetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.becauseULetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.becauseSLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.becauseETwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* THEY word */
