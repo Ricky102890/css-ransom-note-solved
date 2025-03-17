@@ -86,7 +86,6 @@ body {
 }
 
 /* DID word */
-<<<<<<< HEAD
 .didDLetter, 
 .didILetter, 
 .didDTwoLetter {
@@ -118,39 +117,6 @@ body {
   text-decoration: double;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
-=======
-.did {
-
-}
-.didDLetter {
-  font-size: 100px;
-  font-weight: 200;
-  color: plum;
-  text-decoration: line-through;
-  text-transform: capitalize;
-  font-family: "Phudu", sans-serif;
-  background-color: yellow;
-}
-
-.didILetter {
-  font-size: 70px;
-  font-weight: 300;
-  color: cyan;
-  text-decoration: dotted;
-  text-transform: lowercase;
-  font-family: "Permanent Marker", cursive;
-  background-color:  #cf001c;
-}
-
-.didDTwoLetter {
-  font-size: 30px;
-  font-weight: 300;
-  color: greenyellow;
-  text-decoration: dotted;
-  text-transform: lowercase;
-  font-family: "Delius Unicase", cursive;
-  background-color: purple;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* THE word */
@@ -160,7 +126,6 @@ body {
   text-shadow: 1px 2px 2px #808080;
 }
 .theTLetter {
-<<<<<<< HEAD
   font-size: 80px;
   font-weight: 700;
   color: #bf6dc6;
@@ -204,50 +169,8 @@ body {
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: "Emblema One", system-ui;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.theHLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.theELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-/* FRONT-END word */
-
-.frontendFLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 .frontendRLetter {
-<<<<<<< HEAD
   font-size: 60px;
   font-weight: 700;
   color: #bf6dc6;
@@ -308,75 +231,6 @@ body {
   text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.frontendOLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.frontendNLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.frontendTLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.frontendELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.frontendNTwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-
-.frontendDLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* DEVELOPER word */
@@ -392,7 +246,6 @@ body {
   font-weight: 700;
 }
 .developerDLetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 400;
   color: #2db5cb;
@@ -471,87 +324,6 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerVLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerETwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerLLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerOLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerPLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerEThreeLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.developerRLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* TAKE word */
@@ -563,7 +335,6 @@ body {
   
 }
 .takeTLetter {
-<<<<<<< HEAD
   font-size: 40px;
   font-weight: bold;
   color: #f6215c;
@@ -594,42 +365,6 @@ body {
   text-decoration: double;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.takeALetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.takeKLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.takeELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* UP word */
@@ -638,7 +373,6 @@ body {
   font-weight: 400;
 }
 .upULetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 400;
   color: #ff00ff;
@@ -653,24 +387,6 @@ body {
   text-decoration: wavy;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.upPLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* GARDENING word */
@@ -687,7 +403,6 @@ body {
 .gardeningILetter,
 .gardeningNTwoLetter,
 .gardeningGLetter {
-<<<<<<< HEAD
   font-style: oblique;
 }
 .gardeningGLetter {
@@ -761,87 +476,6 @@ body {
   text-decoration: wavy;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningALetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningRLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningDLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningNLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningILetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningNTwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.gardeningGTwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* BECAUSE word */
@@ -919,7 +553,6 @@ body {
   font-size: 40px;
 }
 .theyTLetter {
-<<<<<<< HEAD
   font-size: 40px;
   font-weight: bold;
   color: #bf6dc6;
@@ -950,42 +583,6 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   font-family: "Permanent Marker", cursive;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theyHLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theyELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theyYLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* WANTED word */
@@ -998,7 +595,6 @@ body {
   text-decoration: dotted;
 }
 .wantedWLetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 700;
   color: rgb(47, 220, 255);
@@ -1045,60 +641,6 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   font-family: "Phudu", sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.wantedALetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.wantedNLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.wantedTLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.wantedELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.wantedDLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* TO word */
@@ -1107,7 +649,6 @@ body {
   text-decoration: line-through;
 }
 .toTLetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 400;
   color: greenyellow;
@@ -1122,24 +663,6 @@ body {
   text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.toOLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* IMPROVE word */
@@ -1153,7 +676,6 @@ body {
   font-weight: 400;
 }
 .improveILetter {
-<<<<<<< HEAD
   font-size: 40px;
   font-weight: 700;
   color: rgb(255, 189, 48);
@@ -1208,69 +730,6 @@ body {
   text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.improveMLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.improvePLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.improveRLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.improveOLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.improveVLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.improveELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* THEIR word */
@@ -1282,7 +741,6 @@ body {
   font-size: 60px;
 }
 .theirTLetter {
-<<<<<<< HEAD
   font-size: 30px;
   font-weight: 400;
   color: rgb(93, 133, 96);
@@ -1321,51 +779,6 @@ body {
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: "Permanent Marker", cursive;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theirHLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theirELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theirILetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.theirRLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* ROOT word */
@@ -1376,7 +789,6 @@ body {
   text-decoration: none;
 }
 .rootRLetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 400;
   color: rgb(78, 49, 167);
@@ -1407,42 +819,6 @@ body {
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: "Emblema One", system-ui;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.rootOLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.rootOTwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.rootTLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* SKILLS word */
@@ -1455,7 +831,6 @@ body {
   font-weight: 400;
 }
 .skillsSLetter {
-<<<<<<< HEAD
   font-size: 90px;
   font-weight: 700;
   color: rgb(28, 93, 119);
@@ -1502,60 +877,6 @@ body {
   text-decoration: none;
   text-transform: lowercase;
   font-family: "Delius Unicase", cursive;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.skillsKLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.skillsILetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.skillsLLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.skillsLTwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.skillsSTwoLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
 
 /* SYMBOLS */
@@ -1565,7 +886,6 @@ body {
   font-size: 90px;
 }
 .hyphen {
-<<<<<<< HEAD
   color: #3bbc70;
 }
 .exclamation-mark {
@@ -1573,31 +893,4 @@ body {
 }
 .question-mark {
   color: #595e03;
-=======
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.exclamation-mark {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
-}
-.question-mark {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
-  background-color: ;
->>>>>>> d6e5fdc83b639d553e15c12cd127d7ce3e38bee3
 }
